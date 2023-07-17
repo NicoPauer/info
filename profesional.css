@@ -7,6 +7,13 @@ html, body
     text-align: justify;
 }
 
+p
+{
+ /* Mejora espaciado entre parrafos para que no agrego espacios de mas y sea mas legible */ 
+  margin: 0.3em;
+  padding: 0.1em;
+}
+
 li
 {
   /* Añadi espaciado entre los elementos de la lista */
