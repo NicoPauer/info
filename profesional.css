@@ -5,13 +5,18 @@ html, body
     margin: 0;
     padding: 0;
     text-align: justify;
+  /* Agrego algo de color */
+    background-color: #df3311;
+    color: #dedeed; 
 }
 
 img
 {
  /* Mejoro posicionamiento de las imagenes */ 
   margin-left: 0.8em;
+  border-radius: 0.4em;
 }
+
 p
 {
  /* Mejora espaciado entre parrafos para que no agrego espacios de mas y sea mas legible */ 
