@@ -1,0 +1,14 @@
+html, body
+{
+  /* Prepara el estilo paraque se vea mejor en celulares, aprovecha al maximo la pantalla y centra el texto y
+    demas elementos para que se ve mejor en celulares */
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+li
+{
+  /* Añadi espaciado entre los elementos de la lista */
+    margin: 0.5em;
+}
