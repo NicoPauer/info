@@ -12,7 +12,7 @@ html, body
 
 em
 {
-  color: #111111;
+  color: #555555;
 }
 
 /* Establezco un color legible para los
@@ -30,7 +30,7 @@ a:hover
 
 a:visited
 {
-  color: #424242;
+  color: #111111;
   text-decoration: none;
 }
 
