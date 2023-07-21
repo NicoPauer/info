@@ -10,6 +10,11 @@ html, body
     color: #dedeed; 
 }
 
+em
+{
+  color: #111111;
+}
+
 /* Establezco un color legible para los
    enlaces sin visitar, cuando pasa el mouse
    y para cuando ya se visito */
@@ -25,7 +30,7 @@ a:hover
 
 a:visited
 {
-  color: #333333;
+  color: #424242;
   text-decoration: none;
 }
 
