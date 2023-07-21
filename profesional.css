@@ -10,6 +10,25 @@ html, body
     color: #dedeed; 
 }
 
+/* Establezco un color legible para los
+   enlaces sin visitar, cuando pasa el mouse
+   y para cuando ya se visito */
+a
+{
+  color: #00bbbb;
+}
+
+a:hover
+{
+  color: #dedeed;
+}
+
+a:visited
+{
+  color: #333333;
+  text-decoration: none;
+}
+
 img
 {
  /* Mejoro posicionamiento de las imagenes */ 
